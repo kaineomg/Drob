@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\student\source\repos\orlov\ООП\ConsoleApplication1\ConsoleApplication1.cpp(46): warning C4172: возвращение адреса локальной или временной переменной : drob3
+C:\Users\student\source\repos\orlov\ООП\ConsoleApplication1\ConsoleApplication1.cpp(28): warning C4172: возвращение адреса локальной или временной переменной : drob3
+  ConsoleApplication1.vcxproj -> C:\Users\student\source\repos\orlov\ООП\ConsoleApplication1\Debug\ConsoleApplication1.exe
